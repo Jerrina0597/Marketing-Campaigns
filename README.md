@@ -62,11 +62,5 @@ Matplotlib, Seaborn
 SciPy / Statsmodels,sklearn
 jupyter notebook
 
-## 📂 Repository Structure
-├── Marketing_campaigns.ipynb       # Full analysis notebook
-├──data dictionary
-├── README.md                       # Project documentation
-└── data/                           # Raw or processed dataset 
-
 ## 📌 Conclusion
 This analysis provides actionable insights into customer demographics, spending patterns, and marketing campaign effectiveness. The findings help organizations target the right customer groups and optimize marketing strategies across the four Ps—People, Product, Place, Promotion.
